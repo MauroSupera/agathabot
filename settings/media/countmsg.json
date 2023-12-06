@@ -1,0 +1,28 @@
+[
+  {
+    "groupId": "120363200262145136@g.us",
+    "numbers": [
+      {
+        "id": "5511983436818@s.whatsapp.net",
+        "messages": 75,
+        "figus": 11,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp Web"
+      },
+      {
+        "id": "5512996378494@s.whatsapp.net",
+        "messages": 70,
+        "cmd_messages": 95,
+        "aparelho": "Android",
+        "figus": 0
+      },
+      {
+        "id": "553898291483@s.whatsapp.net",
+        "messages": 45,
+        "cmd_messages": 22,
+        "aparelho": "Android",
+        "figus": 2
+      }
+    ]
+  }
+]
