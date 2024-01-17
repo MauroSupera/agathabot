@@ -23,9 +23,9 @@
     "emoji-unicode": "^2.0.1",
     "request": "^2.88.2"
   },
-  "name": "AGATHA-MD",
+  "name":"AGATHA 2.0",
   "description": "Sempre buscando melhorar, qualquer dúvida entra em contato comigo por meio do WhatsApp: +55 38 9829-1483",
-  "version": "1.0",
+  "version": "2.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -39,7 +39,7 @@
   "keywords": [
      "bot-baileys"
   ],
-  "author": "AGATHA MD",
+  "author":"AGATHA 2.0",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/myvitinho/sabrina-bot"

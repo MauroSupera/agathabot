@@ -1,5 +1,5 @@
 exports.playResult = (data) => {
-  return `• *Título:* ${data.resultado[0].title}\n• *Descrição:* ${data.resultado[0].description}\n• *Duração:* ${data.resultado[0].timestamp} | ${data.resultado[0].seconds} segundos.\n• *Link:* ${data.resultado[0].url}`
+  return `• *Título:* ${data.resultado[0].title}\n• *Descrição:* ${data.resultado[0].description}\n• *Duração:* ${data.resultado[0].timestamp} | ${data.resultado[0].seconds} segundos.`
 }
 
 exports.playVideoResult = (data) => {
