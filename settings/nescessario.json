@@ -5,7 +5,7 @@
   "menu_audio": false,
   "verificado": true,
   "consoleoff": true,
-  "antipv": false,
+  "antipv": true,
   "anticall": true,
   "visualizarmsg": true,
   "listanegraG": [],
